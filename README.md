@@ -13,8 +13,8 @@ Applying the Naive Bayes method using training and testing data to predict wheth
 Jerry Gehrung jgehrung@lion.lmu.edu
 
 ## Installation
-Python/Google Collaboratory
-Google Drive
+- Python/Google Collaboratory
+- Google Drive
 
 ## Acknowledgment
 This project was provided by Professor Arin Brahma at Loyola Marymount University
