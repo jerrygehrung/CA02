@@ -17,4 +17,4 @@ Python/Google Collaboratory
 Google Drive
 
 ## Acknowledgment
-This project was provided by Professor Arin Brahma at Loyola Marymount University.
+This project was provided by Professor Arin Brahma at Loyola Marymount University
